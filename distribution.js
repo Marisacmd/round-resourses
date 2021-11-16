@@ -42,3 +42,4 @@ const getResoursesCount = (resourses, placeUnits) => {
 };
 
 console.log(getResoursesCount(resourses, placeUnitsMax));
+console.log("Результатом для каждого вида ресурса является значение placeUnits")
